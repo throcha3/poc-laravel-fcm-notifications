@@ -16,3 +16,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+public/firebase-messaging-sw.js
+resources/views/home.blade.php

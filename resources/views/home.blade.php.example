@@ -35,13 +35,13 @@
 <script src="https://www.gstatic.com/firebasejs/8.3.2/firebase.js"></script>
 <script>
     var firebaseConfig = {
-        apiKey: "AIzaSyB0ltPMCDtR_zDuMWEm6vL0AsZesjSqAdw",
-        authDomain: "teste-poc-fcm.firebaseapp.com",
-        projectId: "teste-poc-fcm",
-        storageBucket: "teste-poc-fcm.appspot.com",
-        messagingSenderId: "514917343757",
-        appId: "1:514917343757:web:98b6afa7c1bee767166b44",
-        measurementId: "G-W5NJY6FG1P",
+        apiKey: "example",
+        authDomain: "example",
+        projectId: "example",
+        storageBucket: "example",
+        messagingSenderId: "example",
+        appId: "example",
+        measurementId: "example",
     };
     firebase.initializeApp(firebaseConfig);
     const messaging = firebase.messaging();
